@@ -1,3 +1,4 @@
+privet
 PROG=ytfzf
 
 UNAME := $(shell uname)
